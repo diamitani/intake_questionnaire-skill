@@ -1,3 +1,9 @@
+---
+name: intake-questionnaire
+description: >
+  Run this against the uploaded artifacts in Stage 1. For each fact, try to **extract it from the evidence first**. Only ask the user about facts you genuinely cannot infer. Batch all questions into one short message — never interrogate one question at a time. For each fact, internally tag the source Use this skill when working with intake questionnaire tasks or workflows.
+---
+
 # Intake Questionnaire — the 12 facts every case study needs
 
 Run this against the uploaded artifacts in Stage 1. For each fact, try to **extract it from
